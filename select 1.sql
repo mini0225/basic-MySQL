@@ -75,9 +75,9 @@ select
 from
 	`student_study_mst`
 where
-	-- age is null;
+-- 	age is null;
 	age is not null;
-	-- age is null;
+
 
 
 
